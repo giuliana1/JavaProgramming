@@ -15,7 +15,7 @@ public final class Dog extends Animal {
     public void drink(){  // final methods can not be overridden
         System.out.println(getName()+" is drinking beer");
     }
-     */
+
 
     public void bark(){
         System.out.println(getName()+" is barking");
@@ -26,3 +26,6 @@ public final class Dog extends Animal {
 
 // eating dog food
 
+
+
+ */
